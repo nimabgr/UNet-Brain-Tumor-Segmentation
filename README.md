@@ -39,8 +39,6 @@ Below are sample predictions on images from the validation set. The columns repr
 
 Follow these steps to run the project on your local machine.
 
-## How to Use
-
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/nimabgr/UNet-Brain-Tumor-Segmentation.git
@@ -66,7 +64,8 @@ Follow these steps to run the project on your local machine.
 ---
 
 ## Acknowledgments
-    The foundational understanding and implementation of the U-Net architecture for this project were learned from **Aladdin Persson's** excellent YouTube tutorial. His video serves as a clear guide to building U-Net with PyTorch.
+The foundational understanding and implementation of the U-Net architecture for this project were learned from **Aladdin Persson's** excellent YouTube tutorial. His video serves as a clear guide to building U-Net with PyTorch.
 
-    While the tutorial demonstrates the model on the Carvana (car segmentation) dataset, this project applies those learned concepts to a new and different domain: **brain tumor segmentation (LGG-MRI)**.
+While the tutorial demonstrates the model on the Carvana (car segmentation) dataset, this project applies those learned concepts to a new and different domain: **brain tumor segmentation (LGG-MRI)**.
+
 
