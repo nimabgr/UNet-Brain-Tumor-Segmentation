@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+dataset/
+*.pth.tar
+saved_images/
+__pycache__/
+visualize.py
+
