@@ -64,3 +64,8 @@ Follow these steps to run the project on your local machine.
     ```
 
 ---
+
+## Acknowledgments & Project Context
+
+    The foundational understanding and implementation of the U-Net architecture for this project were learned from **Aladdin Persson's** excellent YouTube tutorial. His video serves as a clear guide to building U-Net with PyTorch.
+    While the tutorial demonstrates the model on the Carvana (car segmentation) dataset, this project applies those learned concepts to a new and different domain: **brain tumor segmentation (LGG-MRI)**.
